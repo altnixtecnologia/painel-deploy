@@ -94628,16 +94628,19 @@ A.aql.prototype={
 $1(a){return J.cX(a.h(0,"id"))===this.a},
 $S:615}
 A.aqk.prototype={
-$0(){var s,r=this,q=r.c
-r.b.scN(q.h(0,"name"))
-s=q.h(0,"package_uri")
-if(s==null)s=q.h(0,"package_name")
-if(s==null)s=""
-r.d.scN(s)
-s=q.h(0,"apk_url")
-if(s==null)s=""
-r.e.scN(s)
-r.a.a=q.h(0,"icon_url")},
+$0(){var s,r=this,q=r.c,p=q.h(0,"name")
+if(p==null)p=""
+r.b.scN(p)
+p=q.h(0,"package")
+if(p==null)p=q.h(0,"package_name")
+if(p==null)p=""
+r.d.scN(p)
+p=q.h(0,"apk_url")
+if(p==null)p=""
+r.e.scN(p)
+s=q.h(0,"icon_url")
+if(s==null)s=q.h(0,"image_url")
+r.a.a=s},
 $S:0}
 A.aqo.prototype={
 $0(){var s=0,r=A.z(t.H),q=this,p
