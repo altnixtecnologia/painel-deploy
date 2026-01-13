@@ -95161,7 +95161,7 @@ if(i==null)i="MAGIA TV"
 h=$.af()
 o=a.h(0,"main_app_package")
 if(o==null)o=""
-l=a.h(0,"main_app_url")
+l=a.h(0,"main_app_apk_url")
 if(l==null)l=""
 j.a=a.h(0,"main_app_image_url")
 k=p.c
@@ -95600,7 +95600,7 @@ for(;;)switch(s){case 0:o=$.bU().b
 o===$&&A.a()
 p=t.z
 s=2
-return A.p(o.bV("launcher_config").bv(A.a6(["main_app_label",q.c.a.a,"main_app_package",q.d.a.a,"main_app_url",q.e.a.a,"main_app_image_url",q.a.a],p,p)).fl("id",q.f.h(0,"id")),$async$$0)
+return A.p(o.bV("launcher_config").bv(A.a6(["main_app_label",q.c.a.a,"main_app_package",q.d.a.a,"main_app_apk_url",q.e.a.a,"main_app_image_url",q.a.a],p,p)).fl("id",q.f.h(0,"id")),$async$$0)
 case 2:o=q.b
 p=o.c
 if(p!=null)p.a4(t.J).f.fc(B.W3)
