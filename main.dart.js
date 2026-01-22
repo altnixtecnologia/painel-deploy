@@ -99668,7 +99668,7 @@ var $async$BL=A.q(function(a,b){if(a===1)return A.r(b,r)
 for(;;)switch(s){case 0:q=$.bw().b
 q===$&&A.a()
 s=2
-return A.o(A.OQ(q.gfd(),B.Tr,"https://painel-deploy.vercel.app/"),$async$BL)
+return A.o(A.OQ(q.gfd(),B.Tr,"https://painel-deploy.vercel.app"),$async$BL)
 case 2:return A.t(null,r)}})
 return A.u($async$BL,r)},
 Bm(){var s=0,r=A.v(t.H),q=this
