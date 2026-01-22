@@ -99686,7 +99686,7 @@ I(a){var s,r=this,q=null,p=A.cF(20),o=A.b([new A.bC(0,B.Z,A.ai(B.d.aA(76.5),B.m.
 m=A.b([B.MT,B.cE,B.a3K,B.a4n,B.Yg,n,B.ci,A.fw(q,B.aL,!1,q,!0,B.o,q,A.fY(),r.e,q,q,q,q,q,2,A.oi(q,new A.ep(4,A.cF(10),B.dz),q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Senha",!0,!0,q,B.MX,q,q,q,q,q,q,l,q,q,q,q,q),B.K,!0,q,!0,q,!1,q,B.aB,q,q,q,q,q,q,q,q,1,q,q,m,"\u2022",q,q,q,q,q,!1,q,q,!1,q,!0,q,B.av,q,q,q,q,q,q,q,q,q,q,q,B.a1,!0,B.Y,q,B.aZ,q,q,q,q),B.bG,new A.ds(B.kg,q,q,A.ec(!1,B.a4l,q,q,q,q,q,q,r.gapX(),q,q),q),B.ci],k)
 if(r.f)m.push(B.oX)
 else{n=A.ib(!1,B.a34,q,q,q,q,q,q,r.gary(),q,A.jK(q,q,B.p2,q,q,q,q,q,q,q,q,B.CG,q,q,new A.cN(A.cF(10),B.p),q,q,q,q,q))
-l=A.qW("https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_Reference_Icon.svg",q,q,18,q)
+l=A.qW("https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg",q,q,18,q)
 s=A.b_h(q,q,B.k,q,q,q,q,q,q,B.m,q,B.CG,q,q,new A.cN(A.cF(10),B.p),q,q,q,q,q)
 B.b.T(m,A.b([n,B.cE,B.a4k,B.cE,new A.Di(!0,r.garz(),q,q,q,s,q,q,!1,q,!0,q,new A.YF(B.a3N,l,s,q,q),q)],k))}m.push(B.CK)
 m.push(B.io)
