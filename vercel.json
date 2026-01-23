@@ -1,7 +1,14 @@
 {
   "cleanUrls": true,
+  "trailingSlash": false,
   "rewrites": [
-    { "source": "/status.html", "destination": "/status.html" },
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/status.html",
+      "destination": "/status.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
   ]
 }
